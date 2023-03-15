@@ -29,7 +29,7 @@
 <td valign='left' width='100%'><a href='file:///C:/Users/admin/Desktop/my%20html%20pages/wifi.html'>more</a></ul></td></tr>
 <table border='2' width='60%' cell padding='10'>
 <h3 align='center'>dental products</h3>
-<tr valign='top'><td valign='left'><image src='https://drive.google.com/file/d/11d26LEwCenOpW7m4cjHYV72Flln0Pwfq/view?usp=sharing' alt='C:\Users\admin\Desktop\51f0Ha2aCQL._SL1000_-1000x1000.jpg'>
+<tr valign='top'><td valign='left'><image src='https://github.com/skylovem/web/blob/main/51f0Ha2aCQL._SL1000_-1000x1000.jpg?raw=true'>
 <p>Name :active dental floss</p>
 <p>stocklevels=20</p>
 <p>Price :350kshs </p>
