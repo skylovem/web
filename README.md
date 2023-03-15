@@ -6,11 +6,11 @@
 <p>The items here are worked upon to satisfy you.Our customer satisfaction is our priority.Incase of any ineffectiveness please contact us thhrough the email and whatapp number provided at the home page.</p>
 <h3 align='center'>skin care products</h3>
 <table border='2' width='80%' cell spacing='10'>
-<tr valign='top'><td valign='left'><image src='https://drive.google.com/file/d/1ifqQ414OZonlDhOX-jjw6kOQZDJQQsjY/view?usp=sharing'>
+<tr valign='top'><td valign='left'><image src='https://github.com/skylovem/web/blob/main/12-2-247x247.png'>
 <p>Name :aloe invisible sunscreen</p>
 <p>price:2300kshs </p>
 <p>stock levels=5 </p></td>
-<td valign='center'><image src='C:\Users\admin\8-2-247x247.png'>
+<td valign='center'><image src=
 <p>Name :rooibos glow toner</p>
 <p>stock level=15</p>
 <p>Price :1950kshs</p></td>
