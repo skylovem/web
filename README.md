@@ -17,7 +17,7 @@
 <td valign='left' width='100%'><a href='file:///C:/Users/admin/Desktop/my%20html%20pages/wifi.html'>more</a></ul></td></tr>
 <table border='2' width='80%' cell padding='10'cell spacing='10'>
 <h3 align='center'>hair care products</h3>
-<tr valign='top'><td valign='left'><image src='https://drive.google.com/file/d/1W9XsJ0P90wjvpIjcAdAYwm5f3gC1Mnt2/view?usp=sharing' alt='6434-300x400'>
+<tr valign='top'><td valign='left'><image src='https://github.com/skylovem/web/blob/main/image-6434-300x400.jpg'>
 <p>Name :mosara deep treatment masque</p>
 <p>Description :250mls</p>
 <p>Price :500kshs </p>
