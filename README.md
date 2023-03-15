@@ -34,7 +34,7 @@
 <p>stocklevels=20</p>
 <p>Price :350kshs </p>
 <p>Stock levels:20 packets</p></td>
-<td valign='center'><image src='https://drive.google.com/file/d/1-ZWyayhozTZrUideC4b93yfq-kbKtxwv/view?usp=sharing' alt='C:\Users\admin\Desktop\sample__2___1__g73w-im-1000x1000.jpg'>
+<td valign='center'><image src='sample__2___1__g73w-im-1000x1000.jpg'>
 <p>Name :active junior toothbrush</p>
 <p>stocklevels=20 packets</p>
 <p>Price :300kshs</p></td>
