@@ -10,7 +10,7 @@
 <p>Name :aloe invisible sunscreen</p>
 <p>price:2300kshs </p>
 <p>stock levels=5 </p></td>
-<td valign='center'><image src=
+<td valign='center'><image src='https://github.com/skylovem/web/blob/main/8-2-247x247.png'>
 <p>Name :rooibos glow toner</p>
 <p>stock level=15</p>
 <p>Price :1950kshs</p></td>
