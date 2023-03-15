@@ -22,7 +22,7 @@
 <p>Description :250mls</p>
 <p>Price :500kshs </p>
 <p>Stock levels:20 packets</p></td>
-<td valign='center'><image src='https://drive.google.com/file/d/1j-DkQvSz6by2NHbJxwyy-mk_vxTMxG68/view?usp=sharing' alt='C:\Users\admin\image-85745-300x400.jpg'>
+<td valign='center'><image src='https://github.com/skylovem/web/blob/main/image-85745-300x400.jpg'>
 <p>Name :mosara shampoo</p>
 <p>Description :250ml</p>
 <p>Price :650kshs</p></td>
